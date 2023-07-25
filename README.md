@@ -4,6 +4,7 @@
 -> Testing in postman and user web interface 
 -> Here I've impelemented the GETBYID operation
 
+Integration Server--RESTAPI_SERVER
 
 -> Images of Message flows
 (https://github.com/srivani2142874/PetStoreRestSwagger/assets/140478553/1c2464bf-40c7-43fa-9b96-091cf91e6eff)
